@@ -7,6 +7,8 @@ import java.util.stream.Collectors;
 public class Test3 {
 
     public static void main(String[] args) {
+
+
       List<Rpt> list = new ArrayList<>();
 
       list.add(new Rpt("2025-03","SANY","SANY-1",
